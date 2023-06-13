@@ -4,7 +4,7 @@ cartella per testare git
 
 Breve descrizione del progetto o del repository.
 
-![Screenshot](./screenshots/screenshot1.png)
+![Screenshot](./screenshots/screenshot.jpeg)
 
 ## Funzionalità
 
